@@ -4,7 +4,7 @@ export default function Home() {
       <div className="card">
         <span className="badge">Next.js · Vercel</span>
         <h1>
-          Hello, <span className="grad">World</span> 👋
+          <span className="grad">teste</span> 👋
         </h1>
         <p>
           Seu projeto Node.js está no ar e pronto para o deploy.
